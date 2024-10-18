@@ -127,6 +127,28 @@ We **really** welcome contributions and collaboration! Please follow these steps
 [done] Create logo and REAMDE
 [ ] figure out the ideal flow for each
 
+Scratch note
+TDD
+    - write a pure function - one file, one test suite
+    - write a feature -- several functions
+        - plan
+        - unit tests
+
+Benchmark
+    - make this function run faster
+    - optimize this page
+        - do one at a time, update until it works
+
+Design System / Component
+    - give design system
+    - give constraint
+        - could be specific input schema and output
+    - give natural langauge requirements
+    - design me a component
+    
+    - design a full page
+
+
 ---
 
 ## License

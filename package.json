@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.29.2",
+    "openai": "^4.68.0"
+  },
+  "devDependencies": {
+    "jasmine": "^5.4.0"
+  }
+}
