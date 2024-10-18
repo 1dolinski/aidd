@@ -37,9 +37,13 @@
 
 3. Run the development environment:
    ```bash
-   npm start
+   node main.js "Create a function that calculates the factorial of a number"
    ```
 
+4. 🎉 :
+    ```
+    See files in /src/* and tests in /spec/*
+    ```
 ---
 
 ## How to Use
@@ -145,7 +149,7 @@ Design System / Component
         - could be specific input schema and output
     - give natural langauge requirements
     - design me a component
-    
+
     - design a full page
 
 
