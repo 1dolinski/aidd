@@ -65,6 +65,17 @@
 ## Example Usage
 
 ### Test-Driven Requirement Example:
+
+One of the goals is to get AI to 
+- Create tests
+- Explain Tests and Their Coverage
+- Create Code
+- Run tests
+- Make code and test changes
+- Re-run tests
+
+This is an example of a test.
+
 1. Create a test file:
    ```javascript
    // test/sum.test.js
@@ -92,7 +103,7 @@
 
 ## Contributing
 
-We welcome contributions! Please follow these steps:
+We **really** welcome contributions and collaboration! Please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch:  
