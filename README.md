@@ -111,6 +111,13 @@ We welcome contributions! Please follow these steps:
 
 ---
 
+## Wishlist
+[done] Create Open Source package
+[done] Create logo and REAMDE
+[ ] figure out the ideal flow for each
+
+---
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
